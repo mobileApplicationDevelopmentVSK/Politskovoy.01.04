@@ -7,13 +7,12 @@
     android:visibility="visible">
 
     <ImageView
-        android:id="@+id/imageView13"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:id="@+id/imageView10"
+        android:layout_width="412dp"
+        android:layout_height="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/shape" />
+        app:srcCompat="@drawable/status_bar" />
 
     <ImageView
         android:id="@+id/imageView8"
@@ -74,7 +73,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="40dp"
         android:background="#00FFFFFF"
         android:text="Пропустить"
         android:textColor="#00E5FF"
